@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Toman</h1>
-- 🔭 I’m currently working **on my self**
+- 🔭 I’m currently working on my self
 
 - 🌱 I’m currently learning **Java**
 
